@@ -1,3 +1,6 @@
+**Для студентов потока Университета ИТМО, добавленных в организацию, доступен [полный список лабораторных работ](https://github.com/ITMOPython-2022?view_as=member).**  
+**For the ITMO students of this stream, added to the organization, there is [the full list of laboratory works](https://github.com/ITMOPython-2022?view_as=member).**
+
 ## 1 семестр
 
 #### [Лабораторная работа №5 (API)](https://github.com/ITMOPython-2022/Lab-5) ㅤ[Лабораторная работа №6 (ООП)](https://github.com/ITMOPython-2022/Lab-6)
