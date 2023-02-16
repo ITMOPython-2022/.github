@@ -1,5 +1,5 @@
-**Для студентов потока Университета ИТМО, добавленных в организацию, доступен [полный список лабораторных работ](https://github.com/ITMOPython-2022?view_as=member).**  
-**For the ITMO students of this stream, added to the organization, there is [the full list of laboratory works](https://github.com/ITMOPython-2022?view_as=member).**
+**Для студентов Университета ИТМО, добавленных в организацию, доступен [полный список лабораторных работ](https://github.com/ITMOPython-2022?view_as=member).**  
+**For the ITMO students, added to the organization, there is [the full list of laboratory works](https://github.com/ITMOPython-2022?view_as=member).**
 
 ## 1 семестр
 
